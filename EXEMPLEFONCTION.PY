@@ -6,4 +6,19 @@ def password_function():
             print ("bienvenue")
         
             break
-password_function()
+##password_function()
+
+def somme_nbr():
+    return 5+5
+##a =  somme_nbr()
+###print(a)
+
+
+def calcul_nbr (nbr1, nbr2):
+        return nbr1*nbr2
+        produit = calcul_nbr(4,5)
+        print(produit)
+
+
+
+
