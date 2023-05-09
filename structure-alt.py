@@ -27,7 +27,7 @@ def recherche_dichotomique(x, tableau):
 
 
 tableau = [ 1, 1, 2, 3, 5, 8, 13, 21, 34 ]
-x = 13
+x = 21
 
 result = recherche_dichotomique(x, tableau)
 
